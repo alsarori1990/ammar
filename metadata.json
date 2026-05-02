@@ -1,0 +1,6 @@
+{
+  "name": "Ammar Calories",
+  "description": "A bilingual (Arabic/English) AI-powered calorie tracking app that recognizes food entries and calculates daily nutrition goals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
